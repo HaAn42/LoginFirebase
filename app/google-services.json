@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534862895626",
+    "project_id": "myapp-b99bb",
+    "storage_bucket": "myapp-b99bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534862895626:android:0f0b9ad83bde6157aa9df3",
+        "android_client_info": {
+          "package_name": "poly.edu.loginfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2P__S2pJBtrw2WXLDz7gHi5FNC9ym3Eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
